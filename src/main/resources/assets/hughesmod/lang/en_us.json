@@ -1,0 +1,13 @@
+{
+  "itemGroup.hughesmod": "Example Mod Tab",
+  "block.hughesmod.example_block": "Example Block",
+  "item.hughesmod.example_item": "Example Item",
+
+  "hughesmod.configuration.title": "Hughes mod Configs",
+  "hughesmod.configuration.section.hughesmod.common.toml": "Hughes mod Configs",
+  "hughesmod.configuration.section.hughesmod.common.toml.title": "Hughes mod Configs",
+  "hughesmod.configuration.items": "Item List",
+  "hughesmod.configuration.logDirtBlock": "Log Dirt Block",
+  "hughesmod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "hughesmod.configuration.magicNumber": "Magic Number"
+}
